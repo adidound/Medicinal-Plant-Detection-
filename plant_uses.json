@@ -1,0 +1,80 @@
+{
+  "Aloevera": {
+    "common_name": "Aloe vera",
+    "scientific_name": "Aloe barbadensis miller",
+    "parts_used": ["Leaves", "Gel"],
+    "key_uses": [
+      "Soothes minor burns and skin irritation",
+      "Helps in wound healing",
+      "Used as moisturizer for dry skin"
+    ],
+    "traditional_uses": [
+      "Applied topically for sunburn and rashes",
+      "Used in some home remedies for dandruff"
+    ],
+    "precautions": "Avoid ingesting large quantities of raw aloe latex; may cause abdominal cramps or diarrhea."
+  },
+
+  "Neem": {
+    "common_name": "Neem",
+    "scientific_name": "Azadirachta indica",
+    "parts_used": ["Leaves", "Bark", "Seed oil"],
+    "key_uses": [
+      "Antibacterial and antifungal for skin problems",
+      "Used in traditional remedies for acne",
+      "Insect repellant properties"
+    ],
+    "traditional_uses": [
+      "Leaf paste applied on skin infections",
+      "Neem twigs used as natural toothbrush in some regions"
+    ],
+    "precautions": "Neem oil ingestion can be toxic in high doses; avoid in young children and pregnancy without medical advice."
+  },
+
+  "Tulsi": {
+    "common_name": "Holy Basil",
+    "scientific_name": "Ocimum tenuiflorum",
+    "parts_used": ["Leaves", "Seeds"],
+    "key_uses": [
+      "Relief in cough and cold",
+      "Supports immunity",
+      "Mild anti-stress (adaptogenic) effects described in traditional medicine"
+    ],
+    "traditional_uses": [
+      "Leaves used in herbal teas for respiratory relief",
+      "Chewed fresh leaves for sore throat"
+    ],
+    "precautions": "Generally considered safe in traditional doses; limited safety data in pregnancy, so caution is advised."
+  },
+
+  "Mint": {
+    "common_name": "Mint",
+    "scientific_name": "Mentha spp.",
+    "parts_used": ["Leaves"],
+    "key_uses": [
+      "Relief in indigestion and gas",
+      "Mild cooling effect and freshens breath"
+    ],
+    "traditional_uses": [
+      "Used in chutneys and herbal teas for digestion",
+      "Applied as poultice in some folk practices"
+    ],
+    "precautions": "Concentrated peppermint oil may worsen reflux in sensitive individuals."
+  },
+
+  "Ginger": {
+    "common_name": "Ginger",
+    "scientific_name": "Zingiber officinale",
+    "parts_used": ["Rhizome"],
+    "key_uses": [
+      "Helps in nausea and motion sickness",
+      "Aids digestion",
+      "Has mild anti-inflammatory properties"
+    ],
+    "traditional_uses": [
+      "Ginger tea used for cold, cough and sore throat",
+      "Used with honey in home remedies for indigestion"
+    ],
+    "precautions": "High doses may cause heartburn; use cautiously with blood-thinning medicines."
+  }
+}
